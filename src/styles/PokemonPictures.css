@@ -1,0 +1,15 @@
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .pokemon-card {
+    min-width: 200px; /* Adjust this value as needed */
+    margin: 2px;
+  }
+  
+  .pokemon-card img {
+    width: 100%;
+    height: auto;
+  }
