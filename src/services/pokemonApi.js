@@ -1,7 +1,7 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 const pokemonApiHeaders = {
-  'X-Api-Key': '535b27c3-24b2-443f-8456-09113f3a3422',
+  'X-Api-Key': '',
 };
 
 const baseUrl = 'https://api.pokemontcg.io/v2';
